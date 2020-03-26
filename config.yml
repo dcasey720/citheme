@@ -1,0 +1,18 @@
+CITHEME_WELCOME_MESSAGE: "Learn to adapt to climate change"
+CITHEME_PRIMARY_COLOR: "#356b6a" # aqua green
+
+# Footer links are dictionaries with a "title" and "url"
+# To remove all links, write:
+# INDIGO_FOOTER_NAV_LINKS: []
+# INDIGO_FOOTER_LEGAL_LINKS: []
+CITHEME_FOOTER_NAV_LINKS:
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+CITHEME_FOOTER_LEGAL_LINKS:
+    - title: "Terms of service"
+      url: "/tos"
+    - title: "CI Theme for Open edX based on Indigo"
+      url: "https://github.com/overhangio/indigo"
+PLATFORM_NAME: Climate Ireland Learning 2
